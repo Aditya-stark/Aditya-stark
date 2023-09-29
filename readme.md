@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Hi, This is Aditya.<b><br>I currently work as an Web Developer Intern at INFOTRIXS.
+<h3>Hi, This is Aditya.<h3><br>I currently work as an Web Developer Intern at INFOTRIXS.
 
 
 # 💻 Tech Stack:
